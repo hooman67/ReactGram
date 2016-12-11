@@ -1,6 +1,6 @@
 # React gram
 
-A React and Redux implementation of instagram
+A React and Redux implementation of instagram.
 Boiler plate from : 
 
 https://github.com/samprity/Learn-Redux-Starter-Files/tree/master/learn-redux
